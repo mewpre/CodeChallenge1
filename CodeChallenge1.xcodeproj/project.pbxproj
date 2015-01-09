@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		604DA3721A604588002D3725 /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 604DA3711A604588002D3725 /* WebViewController.m */; };
 		60692D9E1A6043A900756C66 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 60692D9D1A6043A900756C66 /* main.m */; };
 		60692DA11A6043A900756C66 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 60692DA01A6043A900756C66 /* AppDelegate.m */; };
 		60692DA41A6043A900756C66 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 60692DA31A6043A900756C66 /* ViewController.m */; };
@@ -27,6 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		604DA3701A604588002D3725 /* WebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewController.h; sourceTree = "<group>"; };
+		604DA3711A604588002D3725 /* WebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
 		60692D981A6043A900756C66 /* CodeChallenge1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodeChallenge1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60692D9C1A6043A900756C66 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		60692D9D1A6043A900756C66 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -85,6 +88,8 @@
 				60692DA01A6043A900756C66 /* AppDelegate.m */,
 				60692DA21A6043A900756C66 /* ViewController.h */,
 				60692DA31A6043A900756C66 /* ViewController.m */,
+				604DA3701A604588002D3725 /* WebViewController.h */,
+				604DA3711A604588002D3725 /* WebViewController.m */,
 				60692DA51A6043A900756C66 /* Main.storyboard */,
 				60692DA81A6043A900756C66 /* Images.xcassets */,
 				60692DAA1A6043A900756C66 /* LaunchScreen.xib */,
@@ -222,6 +227,7 @@
 				60692DA41A6043A900756C66 /* ViewController.m in Sources */,
 				60692DA11A6043A900756C66 /* AppDelegate.m in Sources */,
 				60692D9E1A6043A900756C66 /* main.m in Sources */,
+				604DA3721A604588002D3725 /* WebViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -412,6 +418,7 @@
 				60692DBD1A6043A900756C66 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		60692DBE1A6043A900756C66 /* Build configuration list for PBXNativeTarget "CodeChallenge1Tests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +427,7 @@
 				60692DC01A6043A900756C66 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
