@@ -72,7 +72,7 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" title="Answer" id="c8S-dK-4tN">
-                        <barButtonItem key="rightBarButtonItem" style="plain" id="hu9-SI-W93">
+                        <barButtonItem key="rightBarButtonItem" id="hu9-SI-W93">
                             <button key="customView" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="xqK-Gw-beD">
                                 <rect key="frame" x="-23" y="-15" width="71" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
